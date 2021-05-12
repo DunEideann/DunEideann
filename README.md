@@ -1,4 +1,13 @@
-### Hi there 👋
+###👋 Welcome 👋
+
+#Hi, I am Samuel Reyes, a software developer junior, with a degree and a postdegree in physics. Always looking for fun stuff to learn, currently learning clean code.
+
+* My Portfolio: http://www.samuelrelgueta.com/
+* Find me in : https://www.linkedin.com/in/samuel-reyes-elgueta/
+* See my CV here: 
+
+Languages and tools:
+https://raw.githubusercontent.com/actioncloud/github-raw-url/master/index.js
 
 <!--
 **DunEideann/DunEideann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
