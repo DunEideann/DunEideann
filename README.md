@@ -4,7 +4,7 @@
 
 * My Portfolio: http://www.samuelrelgueta.com/
 * Find me in : https://www.linkedin.com/in/samuel-reyes-elgueta/
-* See my CV here: 
+* See my CV here: http://www.samuelrelgueta.com/static/CVSamuelReyes.pdf
 
 Languages and tools:
 https://raw.githubusercontent.com/actioncloud/github-raw-url/master/index.js
