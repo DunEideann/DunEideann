@@ -1,6 +1,6 @@
 ###👋 Welcome 👋
 
-#Hi, I am Samuel Reyes, a software developer junior, with a degree and a postdegree in physics. Always looking for fun stuff to learn, currently learning clean code.
+#Hi, I am Samuel Reyes, a junior software developer, with a degree and a postdegree in physics. Always looking for fun stuff to learn, currently learning clean code.
 
 * My Portfolio: http://www.samuelrelgueta.com/
 * Find me in : https://www.linkedin.com/in/samuel-reyes-elgueta/
