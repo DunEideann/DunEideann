@@ -2,9 +2,9 @@
 
 ## Hi, I am Samuel Reyes, a junior software developer, with a degree and a postdegree in physics. Always looking for fun stuff to learn, currently learning clean code.
 
-* <--# My Portfolio   [<img align="left" alt="www.samuelrelgueta.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-* <--## Find me in [<img align="left" alt="samuelrelgueta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-* <--### See my CV here [<img align="left" alt="samuelrelgueta | Curriculum" width="22px" src="https://www.mcicon.com/wp-content/uploads/2020/12/Business_Finance_Resume_1-copy-4.jpg" />][curriculum]
+* <-- # My Portfolio   [<img align="left" alt="www.samuelrelgueta.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+* <-- ## Find me in [<img align="left" alt="samuelrelgueta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+* <-- ### See my CV here [<img align="left" alt="samuelrelgueta | Curriculum" width="22px" src="https://www.mcicon.com/wp-content/uploads/2020/12/Business_Finance_Resume_1-copy-4.jpg" />][curriculum]
 
 Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
