@@ -1,4 +1,4 @@
-### 👋 Welcome 👋
+# 👋 Welcome 👋
 
 ## Hi, I am Samuel Reyes, a junior software developer, with a degree and a postdegree in physics. Always looking for fun stuff to learn, currently learning clean code.
 
@@ -7,7 +7,7 @@
 * <-- See my CV here [<img align="left" alt="samuelrelgueta | Curriculum" width="22px" src="https://cdn3.iconfinder.com/data/icons/20-business-flat-icons-shadow/96/80-512.png" />][curriculum]
 
 
-#### Languages and tools:
+### Languages and tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
