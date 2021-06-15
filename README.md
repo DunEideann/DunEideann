@@ -9,13 +9,13 @@
 
 ### Languages and tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]
-[<img align="left" alt="Django" width="26px" src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" />]
-[<img align="left" alt="Flask" width="26px" src="https://www.logo.wine/a/logo/Flask_(web_framework)/Flask_(web_framework)-Logo.wine.svg" />]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
-[<img align="left" alt="Kivy" width="26px" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][website]
+[<img align="left" alt="Django" width="26px" src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" />][website]
+[<img align="left" alt="Flask" width="26px" src="https://www.logo.wine/a/logo/Flask_(web_framework)/Flask_(web_framework)-Logo.wine.svg" />][website]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
+[<img align="left" alt="Kivy" width="26px" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" />][website]
 
 </br>
 
