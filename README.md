@@ -2,8 +2,10 @@
 
 ##Hi, I am Samuel Reyes, a junior software developer, with a degree and a postdegree in physics. Always looking for fun stuff to learn, currently learning clean code.
 
-* My Portfolio: [<img align="left" alt="www.samuelrelgueta.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-* Find me in : [<img align="left" alt="samuelrelgueta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+* My Portfolio: 
+* [<img align="left" alt="www.samuelrelgueta.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+* Find me in : 
+* [<img align="left" alt="samuelrelgueta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 * See my CV here: http://www.samuelrelgueta.com/static/CVSamuelReyes.pdf
 
 Languages and tools:
