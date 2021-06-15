@@ -17,6 +17,8 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
 [<img align="left" alt="Kivy" width="26px" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" />]
 
+</br>
+
 [website]: http://www.samuelrelgueta.com/
 [linkedin]: https://www.linkedin.com/in/samuel-reyes-elgueta/
 [curriculum]: http://www.samuelrelgueta.com/static/CVSamuelReyes.pdf 
